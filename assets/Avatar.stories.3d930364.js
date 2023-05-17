@@ -1,0 +1,2 @@
+import{A as t}from"./index.9256e459.js";import"./index.04e0e14b.js";import"./iframe.3b5fdf0f.js";import"./index.14fba54d.js";import"./jsx-runtime.f3440061.js";const m={title:"Data display/Avatar",component:t,args:{src:"https://github.com/RayanneRamos.png",alt:"Rayanne Ramos"},argTypes:{src:{control:{type:"text"}}}},n={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{n as Primary,p as WithFallback,c as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories.3d930364.js.map
