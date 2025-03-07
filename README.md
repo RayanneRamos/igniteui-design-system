@@ -16,7 +16,14 @@
 
 [Design System](https://rayanneramos.github.io/igniteui-design-system/?path=/story/home--page) é o quinto projeto e desafio desenvolvido durante o bootcamp ignite da [Rocketseat](https://www.rocketseat.com.br/) que foca nas tecnologias ReactJS, React Native e NodeJS. Consiste em criar um Design System de um projeto do Ignite Call utilizando o Storybook para padronizar o nosso design do projeto.
 
-## 🧪 Technologies
+## 🌟 Funcionalidades
+
+1. **Storybook**: Utilizado para construir, visualizar e testar os componentes de forma isolada, garantindo que os elementos de interface sejam consistentes e reutilizáveis. 
+2. **Design System**: Criação de uma biblioteca de componentes reutilizáveis, como botões, inputs, cards, etc., que podem ser facilmente integrados ao projeto principal. 
+3. **Padronização Visual**: O Design System garante que todos os elementos visuais sigam as mesmas diretrizes, facilitando futuras alterações e melhorando a experiência do usuário. 
+
+
+## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
